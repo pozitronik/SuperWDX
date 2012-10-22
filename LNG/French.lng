@@ -1,0 +1,40 @@
+;English language file for SSettings by Pavel Dubrovsky 
+;Traduction Française : Claude CHARRIES alias Clo ‹French.LNG› 
+1=Fichier 
+2=Enregistrer 
+3=«Langue» 
+4=Quitter 
+5=Éditer 
+6=Copier la chaîne de détection extension 
+7=Coller la chaîne de détection extension 
+8=Supprimer le contenu de la chaîne “extension” 
+9=Appliquer le contenu de la chaîne 
+10=Modules 
+11=Choisir le dossier Modules 
+12=Scruter de nouveau le dossier Modules 
+13=À propos de… 
+14=Ajouter champ (2-clics) 
+15=Agencement Super-colonne 
+16=Liste des Modules: 
+17=Liste des champs de modules: 
+18=Extension: 
+19=Contenu de la chaîne 
+20=Appliquer 
+21=ext 
+22=Chaîne de contenu 
+23=Choisir dossier pour les modules *. WDX : 
+24=Supprimer le contenu de la chaîne de… 
+25=Confirmer la suppression 
+26=Entrer une nouvelle extension de fichier : 
+27=Nouvelle extension de fichier 
+28=«Choisissez un fichier de langue» 
+29=Par défaut 
+30=Dossier 
+31=Options 
+32=Peut utiliser les valeurs par défaut (si <DEF> établi) 
+33=Nouvelle extension: 
+34=Changer l'extension 
+35=Changer l'extension (2-clics) 
+36=Afficher le code d'erreur 
+;37=Confirmer 
+;“37” could be the missing string for "OK", that is prohibited in the French TC and plugins!

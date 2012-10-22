@@ -1,0 +1,44 @@
+;Archivo de idioma Español para SSettings por Sergei
+;Super-Column WDX plugin v1.0pre para Total Commander v6.5+
+1=Archivo
+2=Guardar
+3=Idioma/Language
+4=Salir
+5=Editar
+6=Copiar cadena de detección de extensión
+7=Pegar cadena de detección de extensión
+8=Borrar cadena de detección de extensión
+9=Aplicar cadena de contenido
+10=Conectores
+11=Elegir carpeta de conectores
+12=Releer carpeta de conectores
+13=Acerca de...
+14=Agregar campo (2 clics)
+15=Configurar Super-Columna
+16=Conectores WDX disponibles
+;In 16 it's better to use "Available WDX plugins"
+17=Campos disponibles del conector:
+;In 17 it's better to use "Available fields"
+18=Extensión:
+19=Cadena de contenido:
+20=Aplicar
+21=Extensión
+22=Cadena de contenido
+23=Escoger carpeta con conectores WDX:
+24=Borrar cadena de contenido para
+25=Confirmar borrado
+26=Ingrese nueva extensión de archivo:
+27=Nueva extensión de archivo
+28=«Escoger archivo de idioma / Choose language file»
+29=Por defecto
+30=Carpeta
+31=Opciones
+32=Puede usar valores por defecto (si <DEF> habilitado)
+33=Nueva extensión:
+34=Cambiar extensión
+35=Cambiar extensión (2 clics)
+36=Mostrar código de error
+37=Cambiar valores de campo vacíos por nombre de archivo
+38=Columna #1
+39=Columna #2
+40=Columna #3
